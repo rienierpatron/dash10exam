@@ -1,0 +1,6 @@
+.env
+.env.backup
+.phpunit.result.cache
+/.idea
+/.vscode
+/external
